@@ -1,4 +1,4 @@
-import React from "react";
+// import React from "react";
 
 function Header (blogData) {
     const { name, image, about } = blogData;
