@@ -1,4 +1,4 @@
-import React from "react";
+// import React from "react";
 
 function Article (props) {
     const { title, date="January 1, 1970", preview} = props;

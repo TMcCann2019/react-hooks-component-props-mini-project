@@ -1,4 +1,4 @@
-import React from "react";
+// import React from "react";
 
 function About (blogData) {
     const { name, image="https://via.placeholder.com/215", about } = blogData;
